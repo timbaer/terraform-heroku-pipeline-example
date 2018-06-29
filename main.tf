@@ -12,8 +12,4 @@ resource "heroku_app" "stefans_app" {
   config_vars {
     FOOBAR = "baz"
   }
-
-  buildpacks = [
-    "heroku/go"
-  ]
 }
