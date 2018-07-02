@@ -1,0 +1,23 @@
+{
+  "name": "terraform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timbaer/terraform-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timbaer/terraform-playground/issues"
+  },
+  "homepage": "https://github.com/timbaer/terraform-playground#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

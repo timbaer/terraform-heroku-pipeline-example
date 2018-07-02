@@ -1,0 +1,16 @@
+# Common
+.DS_Store
+.idea/
+.iml
+
+# App build stuff
+
+app/node_modules/
+app/node-v*/
+slug.tgz
+
+# Terraform stuff
+
+.terraform/
+terraform.tfstate*
+tfplan
