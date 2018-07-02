@@ -1,1 +1,1 @@
-# terraform-playground
+# terraform-heroku-pipeline-example
